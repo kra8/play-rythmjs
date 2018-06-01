@@ -3,8 +3,7 @@
 [rythm.js](https://github.com/Okazari/Rythm.js)が面白かったので試してみたやつ。
 
 # screenshots
-
-![sample](.github/sample.png)
+<img src="https://raw.githubusercontent.com/kra8/play-rythmjs/master/.github/sample.gif" width="320">
 
 # Guide
 Run as below:
