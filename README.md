@@ -12,4 +12,4 @@ $ yarn && yarn start
 ```
 Next, open http://localhost:1234
 
-> Note: 曲は、[sm33089007.mp3](http://www.nicovideo.jp/watch/sm33089007)の音源を使用しています。
+> Note: 曲は、[sm33089007](http://www.nicovideo.jp/watch/sm33089007)の音源を使用しています。
