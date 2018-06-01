@@ -1,0 +1,17 @@
+{
+  "name": "t-rythm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "clean": "rimraf .cache dist"
+  },
+  "dependencies": {
+    "rythm.js": "^2.2.3"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.8.1",
+    "rimraf": "^2.6.2"
+  }
+}
